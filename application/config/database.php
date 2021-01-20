@@ -74,10 +74,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'smartschool1',
+	'hostname' => 'db-mysql-nyc1-35752-do-user-7459181-0.b.db.ondigitalocean.com',
+	'username' => 'doadmin',
+	'password' => 'lcy4ya5mmtf5ew1s',
+	'database' => 'defaultdb',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

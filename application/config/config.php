@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   | a PHP script and you can easily do that on your own.
   |
  */
-$config['base_url'] = 'http://localhost/projet/rgueye/smart_school_src_version_6.0.0/smart_school_src/';
+$config['base_url'] = 'https://daust-i5lq2.ondigitalocean.app/daust.org';
 
 
 /*
