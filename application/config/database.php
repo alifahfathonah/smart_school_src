@@ -78,6 +78,7 @@ $db['default'] = array(
 	'username' => 'doadmin',
 	'password' => 'lcy4ya5mmtf5ew1s',
 	'database' => 'defaultdb',
+	'sslmode'  => 'REQUIRED',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
